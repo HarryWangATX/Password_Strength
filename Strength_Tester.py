@@ -15,7 +15,6 @@ while True:
   else:
     print("Your Password is Impossible To Crack")
 
-  print("Is you password: "+ str(x))
 
   z = input("Would You Like to Test Out Another Password?")
 
